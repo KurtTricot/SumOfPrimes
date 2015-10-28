@@ -1,0 +1,6 @@
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.exe.config
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.csprojResolveAssemblyReference.cache
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.exe
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\bin\Debug\SumOfPrimes.pdb
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.exe
+C:\Users\Turtle\Documents\Visual Studio 2015\Projects\Beginner\SumOfPrimes\SumOfPrimes\obj\Debug\SumOfPrimes.pdb
